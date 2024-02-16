@@ -108,7 +108,6 @@
 
 ## Support
 
-For any issue or query I'll love to hear at : developer.authify@gmail.com
 
 **We love contributions ❤️** <br>Contribute to this project
 
